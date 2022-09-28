@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\bin\Debug\net6.0-windows\Kankulyator.exe
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\bin\Debug\net6.0-windows\Kankulyator.deps.json
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\bin\Debug\net6.0-windows\Kankulyator.runtimeconfig.json
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\bin\Debug\net6.0-windows\Kankulyator.dll
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\bin\Debug\net6.0-windows\Kankulyator.pdb
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.Form1.resources
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.dll
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\refint\Kankulyator.dll
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.pdb
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\Kankulyator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Kankulyator\Kankulyator\obj\Debug\net6.0-windows\ref\Kankulyator.dll
